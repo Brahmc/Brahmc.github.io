@@ -1,10 +1,8 @@
-[
-   {
-      "Id":"4419",
+{
+   "4419": {
       "name":"Esprit Friends"
    },
-   {
-      "Id":"CUS2",
+   "CUS2": {
       "name":"A.S. Adventure"
    }
-]
+}
