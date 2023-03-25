@@ -3,6 +3,7 @@
       "name":"Esprit Friends"
    },
    "CUS2": {
-      "name":"A.S. Adventure"
+      "name":"A.S. Adventure",
+      "color":"#55ab75"
    }
 }
