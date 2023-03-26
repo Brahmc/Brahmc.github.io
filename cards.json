@@ -8,6 +8,7 @@
    },
    "2613": {
    "name":"Gamma",
-   "color":"#131780"
+   "color":"#131780",
+   "titleColor":"#FFF"
    }
 }
